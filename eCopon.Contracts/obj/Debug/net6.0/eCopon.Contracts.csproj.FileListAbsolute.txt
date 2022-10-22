@@ -1,0 +1,12 @@
+/Users/haroon/Projects/eCopon/eCopon.Contracts/bin/Debug/net6.0/eCopon.Contracts.deps.json
+/Users/haroon/Projects/eCopon/eCopon.Contracts/bin/Debug/net6.0/eCopon.Contracts.dll
+/Users/haroon/Projects/eCopon/eCopon.Contracts/bin/Debug/net6.0/eCopon.Contracts.pdb
+/Users/haroon/Projects/eCopon/eCopon.Contracts/obj/Debug/net6.0/eCopon.Contracts.csproj.AssemblyReference.cache
+/Users/haroon/Projects/eCopon/eCopon.Contracts/obj/Debug/net6.0/eCopon.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haroon/Projects/eCopon/eCopon.Contracts/obj/Debug/net6.0/eCopon.Contracts.AssemblyInfoInputs.cache
+/Users/haroon/Projects/eCopon/eCopon.Contracts/obj/Debug/net6.0/eCopon.Contracts.AssemblyInfo.cs
+/Users/haroon/Projects/eCopon/eCopon.Contracts/obj/Debug/net6.0/eCopon.Contracts.csproj.CoreCompileInputs.cache
+/Users/haroon/Projects/eCopon/eCopon.Contracts/obj/Debug/net6.0/eCopon.Contracts.dll
+/Users/haroon/Projects/eCopon/eCopon.Contracts/obj/Debug/net6.0/refint/eCopon.Contracts.dll
+/Users/haroon/Projects/eCopon/eCopon.Contracts/obj/Debug/net6.0/eCopon.Contracts.pdb
+/Users/haroon/Projects/eCopon/eCopon.Contracts/obj/Debug/net6.0/ref/eCopon.Contracts.dll

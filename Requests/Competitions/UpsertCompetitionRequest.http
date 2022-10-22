@@ -1,0 +1,13 @@
+@id=51309932-d9f6-4853-a8e0-96655a2a7a11
+
+PUT http://localhost:5275/competition/{{id}}
+Content-Type: application/json
+
+{
+    "name": "Participate and enjoy the match with Kitkat and Nescafe Updated Part 2",
+    "description": "The purchase condition is not required to enter the competition. The following categories are not allowed to participate in the competition, in order to achieve transparency, and they are: All members of the Jeddah Chamber of Commerce and their families.",
+    "startDateTime": "2022-10-22T15:18:29",
+    "endDateTime": "2022-12-22T15:18:29",
+    "numberofwinners": "0",
+    "numberofwithdraws": "0"
+}

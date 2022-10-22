@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CZCgcASJbeEPUFLQ5EhioKPjCEobCmjvMO2JPHvWVsEJs1RuCsY3Svfj87VkBAP53yHyoxj+5gpWf+SgbXeQDA==",
+  "success": true,
+  "projectFilePath": "/Users/haroon/Projects/eCopon/eCopon/eCopon.csproj",
+  "expectedPackageFiles": [
+    "/Users/haroon/.nuget/packages/erroror/1.0.1/erroror.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
