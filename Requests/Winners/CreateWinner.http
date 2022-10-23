@@ -1,0 +1,13 @@
+@competitionID=5ce81a3e-d6cb-45f1-a97d-2f000f21597e
+
+
+POST http://localhost:5275/winner
+Content-Type: application/json
+
+{
+    "name": "Haroon Akram",
+    "email": "chaudhry639@gmail.com",
+    "mobile": "0564636425",
+    "city": "Jeddah",
+    "competitionId": "d27e9da3-4665-49a0-9c6b-cbe254a9f3a1"
+}

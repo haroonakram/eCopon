@@ -1,0 +1,13 @@
+@id=de12f017-8ad7-4659-b584-5e06a4217b2a
+
+
+PUT http://localhost:5275/winner/{{id}}
+Content-Type: application/json
+
+{
+    "name": "Haroon Akram ",
+    "email": "chaudhry639@gmail.com",
+    "mobile": "0564636425",
+    "city": "Jeddah",
+    "competitionId": "d27e9da3-4665-49a0-9c6b-cbe254a9f3a1"
+}
