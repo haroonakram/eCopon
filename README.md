@@ -6,16 +6,12 @@ Trying to Make eCopon Competitions
 
 - [Overview](#overview)
 - [API Definition](#api-definition)
-  - [Create Competition](#create-competition)
-  - [Get Competition](#get-competition)
-  - [Update Competition](#update-competition)
-  - [Delete Competition](#delete-competition)
+  - [Create Competition](#create-competition-request)
+  - [Get Competition](#get-competition-request)
+  - [Update Competition](#update-competition-request)
+  - [Delete Competition](#delete-competition-request)
     - [Delete Competition Response](#delete-competition-response)
   - [Competition Response](#competition-response)
-    
-
-- [Credits](#credits)
-- [VSCode Extensions](#vscode-extensions)
 - [Disclaimer](#disclaimer)
 - [License](#license)
 
@@ -69,7 +65,7 @@ PUT /competition/{{id}}
 DELETE /competition/{{id}}
 ```
 
-### Get Competition Response
+### Competition Response
 
 ```js
 200 Ok
@@ -93,3 +89,10 @@ DELETE /competition/{{id}}
 204 No Content
 ```
 
+# Disclaimer
+
+This is an educational project. The source code is licensed under the MIT license.
+
+# License
+
+This project is licensed under the terms of the [MIT](https://github.com/amantinband/buber-breakfast/blob/main/LICENSE) license.
