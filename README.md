@@ -65,6 +65,13 @@ PUT /competition/{{id}}
 DELETE /competition/{{id}}
 ```
 
+
+### Delete Competition Response
+
+```js
+204 No Content
+```
+
 ### Competition Response
 
 ```js
@@ -83,11 +90,6 @@ DELETE /competition/{{id}}
 }
 ```
 
-### Delete Competition Response
-
-```js
-204 No Content
-```
 
 # Disclaimer
 
