@@ -12,8 +12,6 @@ Trying to Make eCopon Competitions
   - [Delete Competition](#delete-competition-request)
     - [Delete Competition Response](#delete-competition-response)
   - [Competition Response](#competition-response)
-- [Disclaimer](#disclaimer)
-- [License](#license)
 
 
 # Overview
@@ -90,11 +88,3 @@ DELETE /competition/{{id}}
 }
 ```
 
-
-# Disclaimer
-
-This is an educational project. The source code is licensed under the MIT license.
-
-# License
-
-This project is licensed under the terms of the [MIT](https://github.com/amantinband/buber-breakfast/blob/main/LICENSE) license.
