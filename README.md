@@ -76,6 +76,10 @@ DELETE /competition/{{id}}
 200 Ok
 ```
 
+```yml
+Location: {{host}}/Breakfasts/{{id}}
+```
+
 ```json
 {
     "id": "00000000-0000-0000-0000-000000000000",
@@ -86,8 +90,4 @@ DELETE /competition/{{id}}
     "numberofwinners": "120",
     "numberofwithdraws": "330"
 }
-```
-
-```yml
-Location: {{host}}/Breakfasts/{{id}}
 ```
