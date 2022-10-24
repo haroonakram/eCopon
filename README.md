@@ -4,4 +4,34 @@ Trying to Make eCopon Competitions
 
 ### REST API from scratch using .NET 6 
 
-###CRUD
+
+# Overview
+
+In the Project, I build a CRUD REST API from scratch using .NET 6.
+The backend system supports Creating, Reading, Updating and Deleting Competitions.
+The backend system supports Creating, Reading, Updating and Deleting Winners.
+... more sections are coming in the coming days
+
+
+# API Definition
+
+## Competition
+
+### Create Competition Request
+
+```js
+POST /competition
+```
+
+```json
+{
+    "name": "Participate and enjoy the match between Saudi and UAE",
+    "description": "The purchase condition is not required to enter the competition. The following categories are not allowed to participate in the competition, in order to achieve transparency, and they are: All members of the Jeddah Chamber of Commerce and their families.",
+    "startDateTime": "2022-04-08T08:00:00",
+    "endDateTime": "2022-04-08T08:00:00",
+    "numberofwinners": "120",
+    "numberofwithdraws": "330"
+}
+```
+
+
