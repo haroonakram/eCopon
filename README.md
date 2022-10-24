@@ -1,5 +1,5 @@
 # eCopon
-Trying to Make eCopon Competitions 
+Competitions & Winners CRUD
 
 
 ### REST API from scratch using .NET 6 
