@@ -88,3 +88,6 @@ DELETE /competition/{{id}}
 }
 ```
 
+```yml
+Location: {{host}}/Breakfasts/{{id}}
+```
