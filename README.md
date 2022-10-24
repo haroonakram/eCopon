@@ -35,3 +35,48 @@ POST /competition
 ```
 
 
+
+## Get Competition
+
+### Get Competition Request
+
+```js
+GET /competition/{{id}}
+```
+
+
+### Get Competition Response
+
+```js
+200 Ok
+```
+
+```json
+{
+    
+}
+```
+
+## Update Competition
+
+### Update Competition Request
+
+```js
+PUT /competition/{{id}}
+```
+
+
+## Delete Competition
+
+### Delete Competition Request
+
+```js
+DELETE /competition/{{id}}
+```
+
+### Delete Competition Response
+
+```js
+204 No Content
+```
+
